@@ -1,6 +1,6 @@
 .block_navigation .block_tree .depth_1 > .tree_item.branch {
     padding-left: 0;
-    background-image: none;
+    background-image: green;
 }
 
 .block_navigation .block_tree .depth_1 > ul {
